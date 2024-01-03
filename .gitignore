@@ -1,2 +1,4 @@
 .env
 function_calling.ipynb
+assistants_knowledge_retrieval.ipynb
+assistants_function_calling.ipynb
